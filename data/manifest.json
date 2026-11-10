@@ -1,0 +1,16 @@
+{
+    "display_name": "Astri Wide Record",
+    "id": "c92ac069-25ae-43c2-aab1-95491f3cd4d8",
+    "version": "1.6.7",
+    "authors": [
+        "Astri (based on Aitum Vertical by Aitum & Exeldro)"
+    ],
+    "name": "astri-record-canvas",
+    "description": "Extra canvas for recording at any resolution.",
+    "long_description": "Based on Aitum Vertical (GPL-2.0).",
+    "urls": {
+        "repository": "https://github.com/barastri/astri-record-canvas"
+    },
+    "has_banner": false,
+    "has_icon": false
+}
