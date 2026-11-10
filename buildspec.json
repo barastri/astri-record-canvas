@@ -38,11 +38,11 @@
     },
     "name": "astri-record-canvas",
     "displayName": "Astri Record Canvas",
-    "version": "1.6.7",
+    "version": "1.0.0",
     "author": "Astri",
     "website": "https://github.com/barastri/astri-record-canvas",
     "email": "support@aitum.tv",
     "uuids": {
-        "windowsApp": "9072EA15-785B-4BD9-8310-68CEECDA2117"
+        "windowsApp": "A6A19A5C-C36A-46B3-932B-B9460147D8B3"
     }
 }
